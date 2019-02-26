@@ -2,7 +2,7 @@
     "title": "1ITF uitdaging 2",
     "name": "1ITF_uitdaging_2",
     "version": "1.0.0",
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
     "keywords": [
         "1ITF",
         "sass",
@@ -11,7 +11,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/new-age",
+    "homepage": "https://startbootstrap.com/template-overviews/resume",
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
@@ -19,7 +19,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
     },
     "devDependencies": {
         "browser-sync": "^2.26.3",
